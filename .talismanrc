@@ -8,3 +8,10 @@ fileignoreconfig:
     (1).ipynb
   checksum: 27188a78c2a8d0a7829708aae36bea0db38203763633fea557e028ffd85eeb72
 version: ""
+
+fileignoreconfig:
+- filename: Naive Bayes for text classification/movie_review_test.csv
+  checksum: 31d2af843af361a3e58271e3256f6a6344d21c2253ea453d2f6f4a5ff25c1988
+- filename: Naive Bayes for text classification/movie_review_train.csv
+  checksum: cc3b30403e09b6e59fccb90a7ea7381274e2d206c4bae5d8a636caa11c33d23e
+version: ""
