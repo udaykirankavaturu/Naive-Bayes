@@ -1,0 +1,21 @@
+fileignoreconfig:
+- filename: Naive Bayes for text classification/notebooks_Naive_Bayes_Multinomial_Bernoulli_+Demo
+    (1).ipynb
+  checksum: 9da08f2ec34a4316e0b348d6bc6afcbc5e467439121ffc5e9faea8461cf4a1b2
+- filename: Naive Bayes for text classification/SMSSpamCollection.csv
+  checksum: 8904755a69a4a7d4d5632005edd8e48b7f62df5ab1f417bde0a1b0f52d4ab442
+- filename: Naive Bayes for text classification/SMS+Classifier+_+Multinomial+Naive+Bayes
+    (1).ipynb
+  checksum: 27188a78c2a8d0a7829708aae36bea0db38203763633fea557e028ffd85eeb72
+version: ""
+
+fileignoreconfig:
+- filename: Naive Bayes for text classification/notebooks_Naive_Bayes_Multinomial_Bernoulli_+Demo
+    (1).ipynb
+  checksum: 9da08f2ec34a4316e0b348d6bc6afcbc5e467439121ffc5e9faea8461cf4a1b2
+- filename: Naive Bayes for text classification/SMSSpamCollection.csv
+  checksum: 8904755a69a4a7d4d5632005edd8e48b7f62df5ab1f417bde0a1b0f52d4ab442
+- filename: Naive Bayes for text classification/SMS+Classifier+_+Multinomial+Naive+Bayes
+    (1).ipynb
+  checksum: 27188a78c2a8d0a7829708aae36bea0db38203763633fea557e028ffd85eeb72
+version: ""
